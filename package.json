@@ -6,7 +6,7 @@
   "dependencies": {
     "chromedriver": "90.0.1",
     "selenium-webdriver": "4.0.0-beta.4",
-    "tape": "5.3.0",
+    "tape": "5.9.0",
     "ts-node": "10.1.0",
     "typescript": "4.3.5",
     "webdriver-manager": "12.1.8"
@@ -15,7 +15,7 @@
   "devDependencies": {
     "@types/node": "14.17.6",
     "@types/selenium-webdriver": "4.0.15",
-    "@types/tape": "4.13.2",
+    "@types/tape": "5.6.4",
     "husky": "6.0.0",
     "lint-staged": "11.1.1",
     "prettier": "2.3.2",
